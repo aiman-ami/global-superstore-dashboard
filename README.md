@@ -37,7 +37,7 @@ Global Superstore Dataset containing three tables:
 
 ## Visuals
 
-![Sales and Profit Trend](sales_and_profit_trend.png)
+![Sales and Profit Trend](sales_and_profit_trend_by_year.png)
 ![Sales by Category](total_sales_and_profit.png)
 ![Sales by Segment](sales_distribution_by_segment.png)
 ![Top 8 Regions](top_8.png)
